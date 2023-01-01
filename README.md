@@ -1,1 +1,1 @@
-"# send-message" 
+"# sendmessage" 
